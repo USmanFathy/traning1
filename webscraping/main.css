@@ -1,0 +1,13 @@
+div.css-content{
+    width:400px;
+    background-color: #ddd;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+
+div.css-footer{
+    background-color: #666;
+    padding: 20px;
+    color: #fff;
+}
