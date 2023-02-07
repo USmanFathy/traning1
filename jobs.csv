@@ -1,31 +1,31 @@
-company-name,job-titles
-Prospa,Backend Engineer
-Metropolis World Ltd,Senior Developer 
-Saasyan,Senior Full Stack Developer - Angular/Python
-Trust Anakytica,Full Stack web developer (React+PHP)
-Schenck Process Australia,"Schenk Process - Full-Stack Developer (React, AWS) FT Freelance - APAC"
-Fingerprint,Senior Cloud Infrastructure Engineer (Remote)
-Fingerprint,Senior Backend Engineer (AWS)
-Prospa,Mobile Engineer
-Carbide,Sr Software Developer (Remote)
-Open Education LLC,senior java developer
-Getable,Full Stack developer
-Saasyan,Senior Full Stack Developer - PHP
-Fingerprint,Senior Frontend Engineer
-Angel Protocol,Frontend Developer
-Arc Exclusive,"Front-End developer (Typescript, Next.js) - FT Freelance - Worldwide"
-trebu,LEAD BACKEND ENGINEER
-zip,"Zip - Front-end developer (Next.js, React, Web3) - FT - Freelance - Americas, Europe"
-Void,Back End developer
-FYI,Qt/QML DEVELOPER 
-Pareto Labs,Front End Developer
-Empathic Clinical Software,"Full-Stack developer (Java, Spring, Grails) - PT - Freelance - Worldwide"
-trebu,MID FRONT END ENGINEER
-Stimulus,Software engineer
-Prospa,Frontend Engineer
-Viatrace,Blockchain Engineer
-Norby,Senior Front End Developer
-Airtomic,Python (Django) Backend Developer for Web App
-Beacon,"Front-End Developer (Javascript, React) FT - EU (Sweden preferred)"
-Instill AI,Back End developer
-Instill AI,Front End developer
+company-name,job-titles,job-links,job-location,job-salary
+Prospa,Backend Engineer,https://arc.dev/remote-jobs/remote-jobs/details/backend-engineer-ftkufoq208,Remote anywhere 🌎,$60k - $90k USD
+Metropolis World Ltd,Senior Developer ,https://arc.dev/remote-jobs/remote-jobs/details/senior-developer-fxlbwh4838,Remote anywhere 🌎,$70k - $150k USD
+Saasyan,Senior Full Stack Developer - Angular/Python,https://arc.dev/remote-jobs/remote-jobs/details/senior-full-stack-developer-angular-python-gcj619wl8a,Remote anywhere 🌎,$90k - $110k USD
+Trust Anakytica,Full Stack web developer (React+PHP),https://arc.dev/remote-jobs/remote-jobs/details/full-stack-web-developer-react-php-gc97nkvs51,Remote anywhere 🌎,$30k - $45k USD
+Schenck Process Australia,"Schenk Process - Full-Stack Developer (React, AWS) FT Freelance - APAC",https://arc.dev/remote-jobs/remote-jobs/details/schenk-process-full-stack-developer-react-aws-ft-freelance-apac-gc8vvvy0op,Remote anywhere 🌎,$40 - $65/hr USD
+Fingerprint,Senior Cloud Infrastructure Engineer (Remote),https://arc.dev/remote-jobs/remote-jobs/details/senior-cloud-infrastructure-engineer-remote-ftl0qxs85t,Remote anywhere 🌎,$90k - $120k USD
+Fingerprint,Senior Backend Engineer (AWS),https://arc.dev/remote-jobs/remote-jobs/details/senior-backend-engineer-aws-ftl03jwbh8,Remote anywhere 🌎,$100k - $130k USD
+Prospa,Mobile Engineer,https://arc.dev/remote-jobs/remote-jobs/details/mobile-engineer-ftksm3stof,Remote anywhere 🌎,$60k - $80k USD
+Carbide,Sr Software Developer (Remote),https://arc.dev/remote-jobs/remote-jobs/details/sr-software-developer-remote-fgjxpn0h5q,Remote anywhere 🌎,$120k - $140k USD
+Open Education LLC,senior java developer,https://arc.dev/remote-jobs/remote-jobs/details/senior-java-developer-fddyvj6f8a,Remote anywhere 🌎,$70k - $80k USD
+Getable,Full Stack developer,https://arc.dev/remote-jobs/remote-jobs/details/full-stack-developer-fcrmzwhuuc,Remote anywhere 🌎,$70k - $110k USD
+Saasyan,Senior Full Stack Developer - PHP,https://arc.dev/remote-jobs/remote-jobs/details/senior-full-stack-developer-php-gcj60dy647,Remote anywhere 🌎,$90k - $110k USD
+Fingerprint,Senior Frontend Engineer,https://arc.dev/remote-jobs/remote-jobs/details/senior-frontend-engineer-ftl1bxgj2b,Remote anywhere 🌎,$100k - $130k USD
+Angel Protocol,Frontend Developer,https://arc.dev/remote-jobs/remote-jobs/details/frontend-developer-fk1ta5b35s,Remote anywhere 🌎,$30k - $60k USD
+Arc Exclusive,"Front-End developer (Typescript, Next.js) - FT Freelance - Worldwide",https://arc.dev/remote-jobs/remote-jobs/details/front-end-developer-typescript-next-js-ft-freelance-worldwide-gai3xpoiii,Remote anywhere 🌎,$40 - $65/hr USD
+trebu,LEAD BACKEND ENGINEER,https://arc.dev/remote-jobs/remote-jobs/details/lead-backend-engineer-g7zrkilbma,Remote anywhere 🌎,$100k - $150k USD
+zip,"Zip - Front-end developer (Next.js, React, Web3) - FT - Freelance - Americas, Europe",https://arc.dev/remote-jobs/remote-jobs/details/zip-front-end-developer-next-js-react-web3-ft-freelance-americas-europe-g6h6cgl37j,Remote anywhere 🌎,$40 - $50/hr USD
+Void,Back End developer,https://arc.dev/remote-jobs/remote-jobs/details/back-end-developer-ftnl8s9yka,Remote anywhere 🌎,$50k - $75k USD
+FYI,Qt/QML DEVELOPER ,https://arc.dev/remote-jobs/remote-jobs/details/qt-qml-developer-gckw15eiwg,Remote anywhere 🌎,$50k - $90k USD
+Pareto Labs,Front End Developer,https://arc.dev/remote-jobs/remote-jobs/details/front-end-developer-gaqcg8rjfv,Remote anywhere 🌎,$50k - $75k USD
+Empathic Clinical Software,"Full-Stack developer (Java, Spring, Grails) - PT - Freelance - Worldwide",https://arc.dev/remote-jobs/remote-jobs/details/full-stack-developer-java-spring-grails-pt-freelance-worldwide-g923jku44m,Remote anywhere 🌎,$30 - $45/hr USD
+trebu,MID FRONT END ENGINEER,https://arc.dev/remote-jobs/remote-jobs/details/mid-front-end-engineer-g7zt07ariz,Remote anywhere 🌎,$80k - $100k USD
+Stimulus,Software engineer,https://arc.dev/remote-jobs/remote-jobs/details/software-engineer-fww6ui6gdq,Remote anywhere 🌎,$120k - $150k USD
+Prospa,Frontend Engineer,https://arc.dev/remote-jobs/remote-jobs/details/frontend-engineer-ftktlk901f,Remote anywhere 🌎,$50k - $80k USD
+Viatrace,Blockchain Engineer,https://arc.dev/remote-jobs/remote-jobs/details/blockchain-engineer-gdqnzvuy0y,Remote anywhere 🌎,$70k - $170k USD
+Norby,Senior Front End Developer,https://arc.dev/remote-jobs/remote-jobs/details/senior-front-end-developer-gcngu28n6t,Remote anywhere 🌎,$60k - $100k USD
+Airtomic,Python (Django) Backend Developer for Web App,https://arc.dev/remote-jobs/remote-jobs/details/python-django-backend-developer-for-web-app-g9rfl2y18k,Remote anywhere 🌎,$40 - $60/hr USD
+Beacon,"Front-End Developer (Javascript, React) FT - EU (Sweden preferred)",https://arc.dev/remote-jobs/remote-jobs/details/front-end-developer-javascript-react-ft-eu-sweden-preferred-fyg12gjta0,Remote anywhere 🌎,$60k - $80k USD
+Instill AI,Back End developer,https://arc.dev/remote-jobs/remote-jobs/details/back-end-developer-fydyljj3qt,Remote anywhere 🌎,$60k - $80k USD
+Instill AI,Front End developer,https://arc.dev/remote-jobs/remote-jobs/details/front-end-developer-fydxzusbn7,Remote anywhere 🌎,$60k - $80k USD
